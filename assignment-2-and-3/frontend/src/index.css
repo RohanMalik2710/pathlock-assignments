@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* frontend/src/index.css (or App.css) */
+html, body, #root {
+  height: 100%;
+  background-color: #0f1724; /* Tailwind gray-900 look */
+  color: #e6eef8;
+  margin: 0;
+  padding: 0;
+}
+
+/* Ensure main / wrapper does not introduce white background */
+.main-wrapper, .app-container {
+  background: transparent;
+}
