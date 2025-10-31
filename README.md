@@ -145,10 +145,10 @@ http://localhost:3000
 ## Author
 
 **Rohan Malik**
-Student Developer
-Email: rohanmalik2710@gmail.com
-GitHub: github.com/rohanmalik2710
-LinkedIn: linkedin.com/in/rohan-malik-977330269
+* Student Developer
+* Email: rohanmalik2710@gmail.com
+* GitHub: github.com/rohanmalik2710
+* LinkedIn: linkedin.com/in/rohan-malik-977330269
 
 ---
 
