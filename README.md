@@ -155,7 +155,3 @@ LinkedIn: linkedin.com/in/rohan-malik-977330269
 ## License
 
 This repository is open-sourced under the **MIT License**.
-
----
-
-Would you like me to tailor it slightly for **GitHub’s README preview style** (adding short summary at top and badges placeholders like `.NET | React | Tailwind`)? It makes repos look more professional.
